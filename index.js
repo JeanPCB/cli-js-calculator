@@ -11,7 +11,7 @@ function mult(a, b) {
 }
 
 function div(a, b) {
-	if (b > 0) return a / b;
+	return b > 0 ? a / b : 0;
 }
 
 function main() {
