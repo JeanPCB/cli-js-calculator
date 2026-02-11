@@ -1,0 +1,23 @@
+{
+	"name": "cli-js-calculator",
+	"version": "1.0.0",
+	"description": "A simple JavaScript calculator for your CLI",
+	"homepage": "https://github.com/JeanPCB/cli-js-calculator#readme",
+	"bugs": {
+		"url": "https://github.com/JeanPCB/cli-js-calculator/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JeanPCB/cli-js-calculator.git"
+	},
+	"license": "MIT",
+	"author": "JeanPCB",
+	"type": "commonjs",
+	"bin": {
+		"calc": "./index.js"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
